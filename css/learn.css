@@ -1,7 +1,3 @@
-body{
-    text-align: center;
-}
-
 a{
     color:darkslateblue ;
     font-weight: bolder;
@@ -11,4 +7,3 @@ a:hover{
     color: darkgray;
     background-color: darkslategrey;
 }
-

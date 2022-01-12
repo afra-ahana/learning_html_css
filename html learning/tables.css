@@ -1,7 +1,15 @@
 table, th, td {
-    border:1px solid black;
+    padding: 5px;
+    border:1px solid white;
+    border-collapse: collapse;
+    text-align: center;
+    width: 30px;
   }
 
 table{
     width: 100%;
+}
+
+th, td {
+  background: #8699;
 }

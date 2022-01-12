@@ -1,0 +1,17 @@
+body{
+    background: url(one-piece-background-hd-1600x900-313949.jpg) no-repeat;
+    background-size: cover;
+    background-attachment:fixed;
+}
+
+p{
+    margin: 50px;
+    font-size: 30px;
+    color: cornsilk;
+}
+
+h1{
+    margin: 50px;
+    font-size: 30px;
+    color: cornsilk;
+}
